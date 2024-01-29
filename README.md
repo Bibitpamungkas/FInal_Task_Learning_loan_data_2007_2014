@@ -1,0 +1,2 @@
+# FInal_Task_Learning_loan_data_2007_2014
+Prediksi Data Peminjaman menggunakan Algoritma CatBoost Classifier
